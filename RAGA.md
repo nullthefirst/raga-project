@@ -3,11 +3,6 @@ The Global Youth leadership and Girl-Child Foundation (GYLGF) is a Non- governme
 
 - - -
 
-### Our Vision
-GYLGF envisions a society where the potentials of youth and girl-child are fully developed and supported to become socially responsible, responsive, and able to lead self and contribute meaningfully to healthy society.
-
-- - -
-
 ### Raising Girls’ Ambition (RAGA) Conferences
 
 #### >> What is RAGA?
@@ -19,3 +14,8 @@ In order for this to take place, we all must ensure she grows in a gender sensit
 
 #### >> Importance:
 RAGA conferences therefore bring to the front burner issues that would otherwise not allow girls’ ambitions to be raised and/or issues that will enhance her ambition. The Conference feature presentations from academia, policy makers, legal practitioners, international and national NGOs, High school students and health workers.
+
+- - -
+
+### Our Vision
+GYLGF envisions a society where the potentials of youth and girl-child are fully developed and supported to become socially responsible, responsive, and able to lead themselves and contribute meaningfully to a healthy society.
