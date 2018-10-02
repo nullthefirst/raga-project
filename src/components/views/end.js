@@ -6,7 +6,8 @@ export default class End extends Component {
   render() {
     return(
       <div>
-        <h1>End</h1>
+        <h3>Our Vision</h3>
+        <p>YLGF envisions a society where the potentials of youth and girl-child are fully developed and supported to become socially responsible, responsive, and able to lead themselves and contribute meaningfully to a healthy society.</p>
       </div>
     );
   }

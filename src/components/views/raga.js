@@ -16,6 +16,7 @@ export default class RAGA extends Component {
         <Mid />
         <hr />
         <End />
+        <hr />
       </div>
     );
   }
