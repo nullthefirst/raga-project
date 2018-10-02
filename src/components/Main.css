@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+h3, h4 {
+  color: #3cb371;
+}
+
+a:link a:visited {
+  color: #3cb371;
+}
