@@ -15,7 +15,7 @@ export default class AppMenu extends Component {
             <Navbar.Header>
               <Navbar.Brand>
                 <Link to="/">
-                  <span id="title"><b>RAGA Project</b></span>
+                  <span className="note">RAGA Project</span>
                 </Link>
               </Navbar.Brand>
             </Navbar.Header>

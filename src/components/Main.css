@@ -8,6 +8,11 @@ h3, h4, a, hr {
   color: #fff;
 }
 
-#title, p, h5 {
+.note, p, h5 {
   color: #61dafb;
+}
+
+.note {
+  font-weight: bold;
+  font-style: italic;
 }

@@ -12,6 +12,7 @@ export default class RAGA extends Component {
       <div>
         <Top />
         <hr />
+        <h3>Raising Girls’ Ambition (RAGA) Conferences</h3>
         <Mid />
         <hr />
         <End />
