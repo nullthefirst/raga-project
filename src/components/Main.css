@@ -4,7 +4,11 @@ body {
   background-color: #202c37;
 }
 
-h3, h4, a, hr {
+h3, h4, hr {
+  color: #fff;
+}
+
+a:link a:active a:visited {
   color: #fff;
 }
 
