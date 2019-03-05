@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
-import { Navbar } from 'react-bootstrap';
 
 import './Main.css';
 
@@ -9,20 +8,16 @@ import RAGA from './views/raga';
 export default class AppMenu extends Component {
   render() {
     return (
-      <Router>
-        <div>
-          <Navbar collapseOnSelect>
-            <Navbar.Header>
-              <Navbar.Brand>
-                <Link to="/">
-                  <span className="note">RAGA Project</span>
-                </Link>
-              </Navbar.Brand>
-            </Navbar.Header>
-          </Navbar>
 
+      <Router>
+        <nav>
+          <nav class="navbar fixed-top navbar-dark bg-dark bg-light">
+            <span class="navbar-brand mb-0 h1">
+              <Link to="/"><h4 className="note">Raising Girls Ambition PROJECT</h4></Link>
+            </span>
+          </nav>
           <Route exact path="/" component={RAGA} />
-        </div>
+        </nav>
       </Router>
     );
   }

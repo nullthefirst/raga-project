@@ -5,22 +5,13 @@
 body {
   margin: 0 0.5em 0 0.5em;
   text-align: center;
-  background-color: #202c37;
+  background-color: #f0f0f0;
 }
 
-h3, h4 {
-  color: #fff;
-}
-
-a:link, a:active, a:visited {
-  color: #fff;
-}
-
-.note, p, h5 {
-  color: #61dafb;
+a:link, a:active, a:visited, .note {
+  color: #3cb371;
 }
 
 .note {
   font-weight: bold;
-  font-style: italic;
 }
