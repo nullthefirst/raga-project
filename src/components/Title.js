@@ -4,7 +4,7 @@ import './Main.css';
 
 const titleMain = {
   padding: '1em',
-  fontSize: '2em',
+  fontSize: '3.2em',
   textDecoration: 'underline',
   textDecorationColor: '#212121'
 }
