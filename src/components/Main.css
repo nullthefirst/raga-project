@@ -4,6 +4,7 @@
 /* Main styles */
 body {
   margin: 0 0.5em 0 0.5em;
+  padding: 0 2.5em;
   text-align: center;
   background-color: #f0f0f0;
 }
@@ -18,5 +19,14 @@ a:link, a:active, a:visited, .note {
 
 p {
   font-size: 4em;
-  padding: 0.5em 1em;
+  padding: 0.5em 3em;
+}
+
+@media all and (max-width: 599px) {
+
+  p {
+    font-size: 1.4em;
+    padding: 0.5em 0.2em;
+  }
+
 }
