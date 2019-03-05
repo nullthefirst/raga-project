@@ -2,10 +2,18 @@ import React, { Component } from 'react';
 
 import '../Main.css';
 
+const blackBox = {
+  padding: '1em',
+  margin: '2em',
+  color: '#c0c0c0',
+  borderRadius: '6%',
+  backgroundColor: '#212121'
+}
+
 export default class About extends Component {
   render() {
     return(
-      <div>
+      <div style={blackBox}>
         <h3>About Us</h3>
         <p>The <a href="https://www.gylgfoundation.org/" alt="Global Youth leadership and Girl-Child Foundation (GYLGF)">Global Youth leadership and Girl-Child Foundation (GYLGF)</a> is a Non-Governmental and Leadership Organisation established in Nigeria, since 2001 and incorporated in 2014 with the Corporate Affairs Commission (CAC).</p>
         <br />
