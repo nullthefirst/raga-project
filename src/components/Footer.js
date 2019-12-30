@@ -13,7 +13,7 @@ export default class Footer extends Component {
     return(
       <div style={titleMinor2} className="App-link">
         <h5>GYLGF &copy; 2018 - 2019 | All Rights Reserved</h5>
-        <h6><a href="https://usheninte.xyz">Coded by Usheninte</a></h6>
+        <h6><a href="https://ninte.dev">Coded by Usheninte</a></h6>
       </div>
     );
   }
